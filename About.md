@@ -1,4 +1,3 @@
-Your privacy is critically important to us. At Automattic, we have a few fundamental principles:
 
 *   We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
 *   We store personal information for only as long as we have a reason to keep it.
