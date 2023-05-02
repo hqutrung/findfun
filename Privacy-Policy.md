@@ -1,301 +1,707 @@
-Your privacy is critically important to us. At Automattic, we have a few fundamental principles:
+## Privacy Policy
+
+Last updated: May 01, 2023
 
-*   We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
-*   We store personal information for only as long as we have a reason to keep it.
-*   We aim to make it as simple as possible for you to control what information on your website is shared publicly (or kept private), indexed by search engines, and permanently deleted.
-*   We help protect you from overreaching government demands for your personal information.
-*   We aim for full transparency on how we gather, use, and share your personal information.
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service. We use Your Personal data to provide and improve the Service. Welcome to the App and website of Findfun, The website and App are collectively referred to as the “Services”. Before you submit any information on or through the Services or Site or account portal or use the Services, please carefully review this policy. You acknowledge and understand that, by using any part of the site or Services, your continued use of the Services or Site, and/or continued provision of information to us will be subject to the terms of the then-current Privacy Policy.  
+  
 
-Below is our Privacy Policy, which incorporates and clarifies these principles.
+By accessing or using the Site and/or Services, you agree that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and our Terms of ServiceOur Privacy Statement.  
 
-### Who We Are and What This Policy Covers
+ **1.  Application.**
 
-Howdy! We are the folks behind a variety of products and services designed to allow anyone — from bloggers, to photographers, small business owners, and enterprises — to take full advantage of the power and promise of the open web. Our mission is to democratize publishing and commerce so that anyone with a story can tell it, and anyone can turn their great idea into a livelihood. We believe in powering the open internet with code that is open source and are proud to say that the vast majority of our work is available under the General Public License (“GPL”). Unlike most other services, because our GPL code is public, you can actually download and take a look at that code to see how it works. This Privacy Policy applies to information that we collect about you when you use:
+This Privacy Policy sets forth our policy with respect to information that can be associated with or which relates to a person and/or could be used to identify a person ("Personal Data") that is collected from Users on or through the Services. This policy also covers personal data collected from Findfun sales, customers, and prospects. We take the privacy of your Personal Data seriously. Because of that, we have created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other information.  
+  
+"Non-Personal Data" as used in this Privacy Policy is therefore any information that does not relate to a person and/or cannot be used to identify a person. When you interact with the Services, we may collect Non-Personal Data. The limitations and requirements in this Privacy Policy on our collection, use, disclosure, transfer and storage/retention of Personal Data do not apply to Non-Personal Data.  
+  
+**2. Personal Data That We Collect**
 
-*   Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, atavist.com, mailpoet.com, automatewoo.com, jetpackcrm.com, happy.tools, wpcourses.com, wpscan.com, newspack.pub, and wp.cloud);
-*   Our mobile applications (including the WordPress mobile app for Android and iOS);
-*   Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com VIP, Jetpack, the WooCommerce Shipping & Tax extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, MailPoet, AutomateWoo, Jetpack CRM, Happy Tools, WordPress.com Courses, WPScan, and Newspack); and
-*   Other users’ websites that use our Services, while you are logged in to your account with us.
+When you use or interact with us through the Services or engage with Findfun as a sales customer or prospect, we may collect Personal Data. Sometimes this will be on our own behalf to support the experience and other times this will be on behalf of a Host using our Services to run an event. This is an important distinction for purposes of certain data protection laws and is explained in more detail below.  
+  
+Information Collected From All Users
 
-This Privacy Policy also applies to information we collect when you apply for a job at Automattic or one of our subsidiaries. Throughout this Privacy Policy we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.” And if you’d like to learn more about which Automattic company is the controller of information about you, take a look at the section below on [Controllers and Responsible Companies](https://automattic.com/privacy/#controllers-and-responsible-companies). Please note that this Privacy Policy does not apply to any of our products or services, like Tumblr, that have a separate privacy policy. Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
+- Information you provide to us: For all Users we collect Personal Data when you voluntarily provide such information to the Services, such as when you join Findfun to access the Services, contact us with inquiries, respond to one of our surveys or browse or use certain parts of the Services. The Personal Data we may collect includes without limitation your name, address, phone number, email address and any other information that you choose to provide and/or that enables Users to be personally identified. Information we automatically collect: We also automatically collect certain technical data that is sent to us from the computer, mobile device and/or browser through which you access the Services ("Automatic Data"). Automatic Data, includes without limitation, a unique identifier associated with your access device and/or browser (including, for example, your Internet Protocol (IP) address) characteristics about your access device, information about how you came to the Services and data collected through Cookies, Tags and other similar technologies. When you register for the Services or otherwise submit Personal Data to us, we may associate other Non-Personal Data (including Non-Personal Data we collect from third parties) with your Personal Data. At such an instance, we will treat any such combined data as your Personal Data until such time as it can no longer be associated with you or used to identify you.  
+  
+Information Collected From Vendors and Hosts 
 
-### Creative Commons Sharealike License
-
-We’ve decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of this Privacy Policy and other legal documents on [GitHub](https://github.com/Automattic/legalmattic). You’re more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we’d appreciate a credit and link to Automattic somewhere on your site.
-
-### Information We Collect
-
-We only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.
-
-#### _Information You Provide to Us_
-
-It’s probably no surprise that we collect information that you provide to us directly. Here are some examples:
-
-*   **Basic account information:** We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a WordPress.com account to provide an email address and password, along with a username or name — and that’s it. You may provide us with more information — like your address and other information you want to share — but we don’t require that information to create a WordPress.com account.
-*   **Public profile information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, like a photo or an “About Me” description. Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.
-*   **Payment and contact information:** There are various ways in which you may provide us payment information and associated contact information. For example, if you buy something from us — a subscription to a WordPress.com plan, a premium theme, a [custom domain](https://en.support.wordpress.com/domains/domain-registrations-and-privacy/), some Longreads swag — or if you pay fees to a person or business through their WordPress.com site (for example via the Payments feature or the Pay with PayPal block), you’ll provide additional personal and payment information like your name, credit card information, and contact information. We also keep a record of the purchases you’ve made. If you use our Ecommerce Services (including [Store on WordPress.com,](https://en.support.wordpress.com/store/) [WooCommerce Shipping & Tax](https://docs.woocommerce.com/document/woocommerce-services/), and WooCommerce Payments), you’ll have to create a WordPress.com account or connect an existing account and, for some Services, provide your site URL. You may also provide us with financial details to set up a payments integration, like the email address for your Stripe or PayPal account or your bank account information. Additionally, if you use [WooPay](https://woo.app) to make purchases on other sites, we will store the contact information and payment information you provide to that service. And if you participate in a revenue sharing opportunity for your site, like [WordAds](https://wordads.co/), you’ll provide some additional information — for example, a tax ID or other identifier so we can process payments to you.
-*   **Business Profile:** Some of our products collect additional information from you as part of creating a user/customer profile. For example, if you are a Jetpack CRM customer we may add you to our customer relationship database (powered by Jetpack CRM!) using information you provide us including your name, your employer, your job title or role, your contact information, and your communications with us. If you are a Happy Tools user, we use information you provide us like your timezone and location information, your company and team information, and your contact information, to set up your account and power the Service’s features.
-*   **Content information:** You might provide us with information about you in draft and published content (a blog post or comment that includes biographic information about you, or any media or files you upload).
-*   **Credentials:** Depending on the Services you use, you may provide us with credentials for your self-hosted website (like SSH, FTP, and SFTP username and password). Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems more quickly.
-*   **Communications with us (hi there!):** You may also provide us with information when you respond to surveys, communicate with our Happiness Engineers about a support question, post a question in our public forums, or sign up for a newsletter like the one we send through Longreads. When you communicate with us via form, email, phone, WordPress.com comment, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law).
-*   **Job applicant information:** If you apply for a job with us — awesome! You may provide us with information like your name, contact information, resume or CV, professional or personal references, similar professional and employment-related data, and work authorization verification as part of the application process. We may also collect additional information about you during the process, like background and credit checks (in applicable jurisdictions and only for certain job roles).  You may also provide us with demographic information when required by law or to support our diverse workplace initiatives, such as your gender, racial or ethnic origin, veteran status, and disability status if you voluntarily submit such information as part of your application. We collect demographic information in accordance with applicable law, and do not request demographic information in jurisdictions where it may be prohibited. We will only use this sensitive information to accommodate a disability or illness, comply with legal obligations, protect the health and safety of our employees, and facilitate our internal programs relating to diversity, inclusion, and anti-discrimination. 
-
-#### _Information We Collect Automatically_
-
-We also collect some information automatically:
-
-*   **Log information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you create or make changes to your website on WordPress.com.
-*   **Transactional information:** When you make a purchase through our Services, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction. This includes when you purchase something we sell or when you use our Services (like [WooPay](https://woo.app)) to buy something from a third party.
-*   **Usage information:** We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and users perform on a site using our WordPress.com or Jetpack services — in other words, who did what and when (e.g., \[WordPress.com username\] deleted “\[title of post\]” at \[time/date\]). Our [WooCommerce Usage Tracker](https://woocommerce.com/usage-tracking/) also tracks information like your email address, WooCommerce settings, and PHP settings, along with information about your online store, like the aggregate number of orders and customers. We also collect information about what happens when you use our Services (e.g., page views, support document searches at en.support.wordpress.com, features enabled for your website, interactions with our [Admin Bar](https://en.support.wordpress.com/admin-bar/) and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our Services better, and understand and make predictions about user retention.
-*   **Location information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (like when you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
-*   **Stored information:** We may access information stored on your mobile device via our mobile apps. We access this stored information through your device operating system’s permissions. For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a really amazing photograph of the sunrise to your website.
-*   **Interactions with other users’ sites:** We collect some information about your interactions with other users’ sites while you are logged in to your account with us, such as your “Likes” and the fact that you commented on a particular post, so that we can, for example, [recommend posts](https://en.support.wordpress.com/algorithms-search-and-recommendations/) we think may interest you. As another example, we collect information about the comments IntenseDebate users make while logged in and use that information to, for example, tally up statistics about your comments (check them out in your dashboard!) and display information about your comments in your IntenseDebate public profile.
-*   **Information from cookies & other technologies:** A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. Automattic uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies for tracking, including how you can control the use of cookies, please see our [Cookie Policy](http://www.automattic.com/cookies).
-
-#### _Information We Collect from Other Sources_
-
-We may also get information about you from other sources. For example: 
-
-*   **Third Party Login:** If you create or log in to your WordPress.com account through another service (like Google) we’ll receive associated login information (e.g. a connection token, your username, your email address)
-*   **Social Sharing Services:** If you connect your website or account to a social media service (like Twitter) through our Publicize feature, we’ll receive information from that service (e.g., your username, basic profile information, friends list) via the authorization procedures for that service.
-*   **Financial Account Info:** If you use WooCommerce Payments, we’ll receive information relating to your Stripe account, such as your email address and phone number. If you use WooPay, we’ll receive your payment information from Stripe.
-*   **Google Account Information:** When you connect your Google account to your Newspack powered site, we may access certain Google user data such as your Google Ad Manager Configuration (the network code and your ad units) and your Google Analytics data to allow you to access and manage features more seamlessly. For example, you may be able to manage your Google ads and see your Google Analytics data directly within the dashboard of your Newspack powered site.
-
-The information we receive depends on which services you use or authorize and what options are available. 
-
-Third-party services may also give us information, like mailing addresses for individuals who are not yet our users (but we hope will be!). We use this information for marketing purposes like postcards and other mailers advertising our Services.
-
-### How and Why We Use Information
-
-#### _Purposes for Using Information_
-
-We use information about you for the purposes listed below:
-
-*   **To provide our Services.** For example, to set up and maintain your account, host your website, backup and restore your website, provide customer service, process payments and orders, and verify user information.
-*   **To ensure quality, maintain safety, and improve our Services.** For example, by providing automatic upgrades and new versions of our Services. Or, for example, by monitoring and analyzing how users interact with our Services so we can create new features that we think our users will enjoy and that will help them create and manage websites more efficiently or make our Services easier to use.
-*   **To place and manage ads in our advertising program.** For example, to place ads on our users’ sites and some of our own sites as part of our advertising program, and understand ad performance.
-*   **To market our Services and measure, gauge, and improve the effectiveness of our marketing.** For example, by targeting our marketing messages to groups of our users (like those who have a particular plan with us or have been users for a certain length of time), advertising our Services, analyzing the results of our marketing campaigns (like how many people purchased a paid plan after receiving a marketing message), and understanding and forecasting user retention.
-*   **To protect our Services, our users, and the public.** For example, by detecting security incidents; detecting and protecting against malicious, deceptive, fraudulent, or illegal activity; fighting spam; complying with our legal obligations; and protecting the rights and property of Automattic and others, which may result in us, for example, declining a transaction or terminating Services.
-*   **To fix problems with our Services.** For example, by monitoring, debugging, repairing, and preventing issues.
-*   **To customize the user experience.** For example, to personalize your experience by serving you relevant notifications and advertisements for our Services, recommending content through our Reader post suggestions, and providing new essays and stories through Longreads for your reading pleasure.
-*   **To communicate with you.** For example, by emailing you to ask for your feedback, share tips for getting the most out of our products, or keep you up to date on Automattic; texting you to verify your payment; or calling you to share offers and promotions that we think will be of interest to you. If you don’t want to hear from us, you can opt out of marketing communications at any time. (If you opt out, we’ll still send you important updates relating to your account.)
-*   **To recruit and hire new Automatticians.** For example, by evaluating job applicants (including verifying their identity, experience, and other information submitted) and communicating with them by phone, email, or social media platforms.  If the application progresses, we may also collect interview information and background check information.  This may also include verifying information required to initiate employment, for purposes such as confirming ability to legally work in a specific location, setting up payroll, and complying with statutory reporting requirements.
-
-#### _Legal Bases for Collecting and Using Information_
-
-A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for compliance with a legal obligation; or (3) The use is necessary in order to protect your vital interests or those of another person; or (4) We have a legitimate interest in using your information — for example, to provide and update our Services; to improve our Services so that we can offer you an even better user experience; to safeguard our Services; to communicate with you; to measure, gauge, and improve the effectiveness of our advertising; and to understand our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or (5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on, as described in our [Cookie Policy](http://www.automattic.com/cookies).
-
-### Sharing Information
-
-#### _How We Share Information_
-
-We share information about you in limited circumstances, and with appropriate safeguards on your privacy. These are spelled out below, as well as in the section called [Ads and Analytics Services Provided by Others](https://automattic.com/privacy/#ads-and-analytics-services-provided-by-others):
-
-*   **Subsidiaries and independent contractors:** We may disclose information about you to our subsidiaries and independent contractors who need the information to help us provide our Services or process the information on our behalf. We require our subsidiaries and independent contractors to follow this Privacy Policy for any personal information that we share with them.
-*   **Third-party vendors:** We may share information about you with third-party vendors who need the information in order to provide their services to us, or to provide their services to you or your site. This includes vendors that help us provide our Services to you (like Stripe, which powers WooCommerce Payments, payment providers that process your credit and debit card information, payment providers you use for your own ecommerce operations, fraud prevention services that allow us to analyze fraudulent payment transactions, cloud storage services, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Automattic); those that assist us with our marketing efforts (e.g., by providing tools for identifying a specific marketing target group or improving our marketing campaigns, and by placing ads to market our services); those that help us understand and enhance our Services (like analytics providers); those that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams); other third-party tools that help us manage operations; and companies that make products available on our websites (like the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. Other vendors are listed in our more specific policies (e.g., our [Cookie Policy](https://automattic.com/cookies/)).
-*   **Legal and regulatory requirements:** We may disclose information about you in response to a subpoena, court order, or other governmental request. For more information on how we respond to requests for information about WordPress.com users, please see our [Legal Guidelines](https://en.support.wordpress.com/report-blogs/legal-guidelines/). Additionally, if you have a domain registered with WordPress.com, we may share your information to comply with the Internet Corporation for Assigned Names and Numbers' (ICANN) regulations, rules, or policies. For example, your information relating to your domain registration may be available in the WHOIS database, or we may be required to share your information with ICANN-approved Dispute Resolution Service Providers. Please see our [Domain Registrations and Privacy support document](https://en.support.wordpress.com/domains/domain-registrations-and-privacy/) for more details.
-*   **To protect rights, property, and others:** We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we [may disclose information related to the emergency without delay](https://en.support.wordpress.com/report-blogs/legal-guidelines/#emergency-requests-from-government-agencieslaw-enforcement).
-*   **Business transfers:** In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
-*   **With your consent:** We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties when you authorize us to do so, like when you connected your site to a social media service through our Publicize feature.
-*   **Aggregated or de-identified information:** We may share information that has been aggregated or de-identified, so that it can no longer reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services, or share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
-*   **Site owners:** If you have a WordPress.com account and interact with another site using our Services, your information may be shared with the administrators of the site. For example, if you leave a comment on a site created on WordPress.com or running Jetpack, your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment. Or if you make a payment (like via the [Payments feature](https://en.support.wordpress.com/recurring-payments/)) to a site, your public display name, user name, and email address may be shared with the administrator(s) of the site.
-*   **Published support requests:** If you send us a request for assistance (for example, via a support email or one of our other feedback mechanisms), we reserve the right to publish that request in order to clarify or respond to your request, or to help us support other users.
-
-#### _Information Shared Publicly_
-
-Information that you choose to make public is — you guessed it — disclosed publicly. That means information like your public profile, posts, other content that you make public on your website, and your “Likes” and comments on other websites are all available to others — and we hope they get a lot of views! For example, the photo that you upload to your public profile, or a default image if you haven’t uploaded one, is your **G**lobally **R**ecognized Avatar, or Gravatar — get it? :) Your Gravatar, along with other public profile information, displays alongside the comments and “Likes” that you make on other users’ websites while logged in to your WordPress.com account. Your Gravatar and public profile information may also display with your comments, “Likes,” and other interactions on websites that use our Gravatar service, if the email address associated with your account is the same email address you use on the other website. We also provide a “Firehose” stream of public data (like posts and comments) from some sites that use our Services to provide that data to Firehose subscribers, who may view and analyze the content (all subject to our Terms of Service), but do not have rights to re-publish it publicly. Find out more about opting out of the Firehose for [WordPress.com](https://en.support.wordpress.com/settings/privacy-settings/#firehose-settings) and [Jetpack](https://jetpack.com/support/enhanced-distribution/) sites. Public information may also be indexed by search engines or used by third parties. Please keep all of this in mind when deciding what you would like to share publicly.
-
-### How Long We Keep Information
-
-We generally discard information about you when it’s no longer needed for the purposes for which we collect and use it — described in the section above on How and Why We Use Information — and we’re not legally required to keep it. 
-
-For example, we keep web server logs that record information about a visitor to one of Automattic’s websites, like the visitor’s IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to Automattic’s websites and investigate issues if something goes wrong on one of our websites. 
-
-As another example, when you delete a post, page, or comment from your WordPress.com site, it stays in your Trash folder for thirty days in case you change your mind and would like to restore that content, because starting from scratch is no fun. After the thirty days are up, the deleted content may remain on our backups and caches until purged.
-
-If you are a job applicant, we will keep your personal data during the application process, and for a certain period thereafter. To determine that period, we take into account a number of factors, like our legal and regulatory obligations (such as equal opportunity obligations) and whether we may need to retain personal data for internal business purposes like analyzing our applicant pool.
-
-### Security
-
-While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so. We monitor our Services for potential vulnerabilities and attacks. To enhance the security of your account, we encourage you to enable our advanced security settings, like [Two Step Authentication](https://en.support.wordpress.com/security/two-step-authentication/).
-
-### Choices
-
-You have several choices available when it comes to information about you:
-
-*   **Limit the information that you provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services — for example, premium themes that carry an additional charge — may not be accessible. If you are a job applicant, and you choose not to provide certain data elements to us, we may not be able to proceed with the recruitment process.
-*   **Limit access to information on your mobile device:** Your mobile device operating system should provide you with the option to discontinue our ability to collect stored information or location information via our mobile apps. If you choose to limit this, you may not be able to use certain features, like geotagging for photographs.
-*   **Opt out of marketing communications:** You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices.
-*   **Set your browser to reject cookies:** At this time, Automattic does not respond to “do not track” signals across all of our Services. However, you can [usually choose](https://automattic.com/cookies/#controlling-cookies) to set your browser to remove or reject browser cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
-*   **Opt out of our internal analytics program:** You can do this through your user settings. By opting out, you will stop sharing information with our analytics tool about events or actions that happen after the opt-out, while you’re logged in to your WordPress.com account. For more information, please see our [Cookie Policy](https://automattic.com/cookies/#our-internal-analytics-tool).
-*   **Close your account:** While we’d be very sad to see you go, you can close your account if you no longer want to use our Services. ([Here](https://en.support.wordpress.com/close-account/) are account closure instructions for WordPress.com accounts.) Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
-
-### Your Rights
-
-If you are located in certain parts of the world, including California and countries that fall under the scope of the European General Data Protection Regulation (aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to or deletion of your data.
-
-#### _European General Data Protection Regulation (GDPR)_
-
-If you are located in a country that falls under the scope of the GDPR, data protection laws give you certain rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
-
-*   Request access to your personal data;
-*   Request correction or deletion of your personal data;
-*   Object to our use and processing of your personal data;
-*   Request that we limit our use and processing of your personal data; and
-*   Request portability of your personal data.
-
-You also have the right to make a complaint to a government supervisory authority.
-
-#### _US Privacy Laws_
-
-Laws in some US states, including California, Colorado, Connecticut, Utah, and Virginia, require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. You’ll find that information in this section (if you are a California resident, please note that this is the Notice at Collection we are required to provide you under California law).
-
-In the last 12 months, we collected the following categories of personal information, depending on the Services used:
-
-*   Identifiers (like your name, contact information, and device and online identifiers);
-*   Commercial information (your billing information and purchase history, for example);
-*   Characteristics protected by law (for example, you might provide your gender as part of a research survey for us or you may choose to voluntarily disclose your race or veteran status as part of your job application);
-*   Internet or other electronic network activity information (such as your usage of our Services, like the actions you take as an administrator of a WordPress.com site);
-*   Geolocation data (such as your location based on your IP address);
-*   Audio, electronic, visual or similar information (such as your profile picture, if you uploaded one);
-*   Professional or employment-related information (for example, your company and team information if you are a Happy Tools user, or information you provide in a job application); and
-*   Inferences we make (such as likelihood of retention or attrition).
-
-If you are a job applicant, we may have also collected:
-
-*   Education information, such as the education you disclose in your job application.
-
-You can find more information about what we collect and sources of that information in the [Information We Collect section](https://automattic.com/privacy/#information-we-collect) above. 
-
-We collect personal information for the business and commercial purposes described in the [How and Why We Use Information section](https://automattic.com/privacy/#how-and-why-we-use-information). And we share this information with the categories of third parties described in the [Sharing Information section](https://automattic.com/privacy/#sharing-information). We retain this information for the length of time described in our [How Long We Keep Information section](https://automattic.com/privacy/#how-long-we-keep-information).
-
-In some US states you have additional rights subject to any exemptions provided by your state’s respective law, including the right to:
-
-*   Request a copy of the specific pieces of information we collect about you and, if you’re in California, to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, and the categories of third parties we share it with;
-*   Request deletion of personal information we collect or maintain;
-*   Request correction of personal information we collect or maintain;
-*   Opt out of any sale or sharing of personal information; 
-*   Receive a copy of your information in a readily portable format; and
-*   Not receive discriminatory treatment for exercising your rights.
-
-You can find detailed metrics about Automattic's compliance with these rights in [our Privacy Report](https://transparency.automattic.com/landing/).
-
-#### **_Right to Opt Out_**
-
-We never directly sell your personal information in the conventional sense (i.e., for money).
-
-We may share your information as necessary with our third-party service providers to provide our services to you. To the extent that we share your information with certain advertising, marketing, or analytics vendors, this can be considered a “sale” or “share” in certain U.S. States, which you may have the right to opt out of.
-
-You can learn more about this sharing and how to opt out by clicking the “Do Not Sell My Personal Information” link in the footer of our websites, or from the settings page within our apps. Note that in some instances this link will only display to individuals visiting our sites from within the relevant states.
-
-Our opt-out is managed through cookies, so if you delete cookies, your browser is set to delete cookies automatically after a certain length of time, or if you visit sites in a different browser, you’ll need to make this selection again.
-
-We also respect the GPC browser signal and will treat it as a valid means of communicating your desire to opt out.
-
-We do not collect or process your sensitive (and potentially sensitive) personal information except where it is strictly necessary to provide you with our service, where the processing is not for the purpose of inferring characteristics about you, or for other purposes that do not require an option to limit under California law. We don’t knowingly sell or share personal information of those under 16.
-
-#### **_Your Information & Personalized Advertising_**
-
-Our mission is to democratize publishing and commerce, and that means making our Services accessible to as many people as possible. We show ads on some of our users’ sites as well as some of our own sites, and the revenue these ads generate lets us offer free access to some of our Services so that money doesn’t become an obstacle to having a voice. Our ads program also allows our users to earn revenue to support and grow their own sites. As part of our advertising program, we and our users do use cookies to share certain device identifiers and information about your browsing activities with our advertising partners, and those advertising partners may use that information to show you personalized ads on some of our users’ sites and some of our own. 
-
-The personal information we share includes online identifiers; internet or other network or device activity (such as cookie information, other device identifiers, and IP address); and geolocation data (approximate location information from your IP address). These disclosures may be considered a “sale” of information under the CCPA. We do not sell (or share) information through our ads program that identifies you personally, like your name or contact information. We don't knowingly sell personal information of those under 16. Learn how you can opt out by going to [Advertising on WordPress.com Sites and Sites in the WordAds Program.](https://wordpress.com/advertising-program-optout/).
-
-#### _Contacting Us About These Rights_
-
-You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to “[How to Reach Us](https://automattic.com/privacy/#how-to-reach-us)” to, well, find out how to reach us. 
-
-When you contact us about one of your rights under this section, we’ll need to verify that you are the right person before we disclose or delete anything. For example, if you are a user, we will need you to contact us from the email address associated with your account. You can also designate an authorized agent to make a request on your behalf by giving us written authorization. We may still require you to verify your identity with us.
-
-#### _Appeals Process for Rights Requests Denials_
-
-In some circumstances we may deny your request to exercise one of these rights. For example, if we cannot verify that you are the account owner we may deny your request to access the personal information associated with your account. As another example, if we are legally required to maintain a copy of your personal information we may deny your request to delete your personal information.
-
-In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal. All appeals will be reviewed by an internal expert who was not involved in your original request. In the event that your appeal is also denied this information will be communicated to you in writing.  Please note that the appeal process does not apply to job applicants.
-
-If your appeal is denied, in some US states (Colorado, Connecticut, and Virginia) you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
-
-### Controllers and Responsible Companies
-
-Automattic’s Services are worldwide. Different Automattic companies are the controller (or co-controller) of personal information, which means that they are the company responsible for processing that information, based on the particular service and the location of the individual using our Services. Depending on the Services you use, more than one company may be the controller of your personal data. Generally, the “controller” is the Automattic company that entered into the contract with you under the Terms of Service for the product or service you use. In addition, Automattic Inc., our US-based company, is the controller for some of the processing activities across all of our Services worldwide. The chart below explains the current controllers for processing your personal information. We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in Europe (including the UK and ROI). _**All Automattic Services (except WooCommerce)**_
-
-If you reside outside of the Designated Countries:
-
-**Automattic Inc.** 60 29th Street #343 San Francisco, CA 94110
-
-If you reside in the Designated Countries:
-
-**Aut O’Mattic A8C Ireland Ltd.** Grand Canal Dock, 25 Herbert Pl Dublin, D02 AY86 Ireland Automattic Inc. is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
-
-_**WooCommerce Services**_ _WooCommerce Services includes WooCommerce, WooCommerce Payments, WooCommerce Shipping and Tax, MailPoet, and any products purchased from WooCommerce.com._
-
-If you reside outside of the Designated Countries:
-
-**WooCommerce, Inc.** 60 29th Street #343 San Francisco, CA 94110 Automattic Inc. is also the controller for some of the processing activities related to Services provided by WooCommerce, Inc.
-
-If you reside in the Designated Countries:
-
-**WooCommerce Ireland Ltd.** Grand Canal Dock, 25 Herbert Pl Dublin, D02 AY86 Ireland Automattic Inc and WooCommerce, Inc are also the joint controllers for some of the processing activities related to Services provided by WooCommerce Ireland Ltd.
-
-### How to Reach Us
-
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the [Your Rights section](https://automattic.com/privacy/#your-rights) above, please contact us through our [web form](https://wordpress.com/help/contact) or via [email](mailto:privacypolicyupdates@automattic.com). These are the fastest ways to get a response to your inquiry, but you can also contact us by telephone at 1-877-273-3049.
-
-### Other Things You Should Know (Keep Reading!)
-
-#### _Transferring Information_
-
-Because Automattic’s Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third-party data processors. This is required for the purposes listed in the [How and Why We Use Information section](https://automattic.com/privacy/#how-and-why-we-use-information) above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include entering into European Commission approved standard contractual arrangements with entities based in countries outside the EEA. You can ask us for more information about the steps we take to protect your personal information when transferring it from the EU.
-
-#### _Ads and Analytics Services Provided by Others_
-
-Ads appearing on any of our Services may be delivered by advertising networks. Other parties may also provide analytics services via our Services. These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver ads that may be more targeted to your interests. Please note this Privacy Policy only covers the collection of information by Automattic and does not cover the collection of information by any third-party advertisers or analytics providers.
-
-#### _Third-Party Software and Services_
-
-If you’d like to use third-party plugins or embeds, WooCommerce Payments (powered by Stripe), WooCommerce extensions that enable services provided by third parties, or other third-party software or services, please keep in mind that interacting with them may mean providing information about yourself (or your site visitors) to those third parties. For example, some third-party services may request or require access to your (yours, your visitors’, or customers’) data via a pixel or cookie. Please note that if you use the third-party service or grant access, your data will be handled in accordance with the third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about information collection, use, and sharing, which you should review before using the software or services.
-
-#### _Visitors to Our Users’ Websites_
-
-We also process information about visitors to our users’ websites, on behalf of our users and in accordance with our user agreements. Please note that our processing of that information on behalf of our users for their websites isn’t covered by this Privacy Policy. We encourage our users to post a privacy policy that accurately describes their practices on data collection, use, and sharing of personal information. If you’d like, you can also read more about the data we collect on behalf of our users in our [Privacy Notice](https://automattic.com/privacy-notice). Users control the content posted on their sites, so any disputes regarding content on a user’s site should be made directly to the site owner, through their “contact us” page, at an email address they provide, or by leaving a comment on the site.
-
-### Privacy Policy Changes
-
-Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage or the [WordPress.com Blog,](https://en.blog.wordpress.com/) or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
-
-### Other Information and Resources
-
-[Jetpack Privacy Center](https://jetpack.com/support/privacy/) [WooCommerce and the GDPR](https://woocommerce.com/gdpr/)
-
-### Translation
-
-Our Privacy Policy was originally written in English (US). We may translate it into other languages. For example: French: [https://automattic.com/fr/privacy](https://automattic.com/fr/privacy) Spanish: [https://automattic.com/es/privacy](https://automattic.com/es/privacy) German: [https://automattic.com/de/privacy](https://automattic.com/de/privacy) In the event of a conflict between a translated version of our Privacy Policy and the English version, the English version will control. That’s it! Thanks for reading.
-
-### Change log
-
-*   _December 30, 2022_: Updated the California rights section to apply to additional US states.
-*   _November 22, 2021_: Included information for WordPress.com WPScan.
-*   _October 8, 2021_: Included information for WordPress.com Courses and Newspack. Updated the "Information we Collect from Other Sources" section with new examples.
-*   _January 1, 2021_: Included information for AutomateWoo and Jetpack CRM. Updated the “Controllers and Responsible Companies” section to reflect changes affecting WooCommerce users.
-*   _December 7, 2020:_ Included information for MailPoet.
-*   _October 12, 2020_: Renamed WooCommerce Services to WooCommerce Shipping & Tax.
-*   _August 1, 2020_: Renamed some Payments features and updated the "Controllers and Responsible Companies" section to reflect changes affecting WooCommerce users.
-*   _February 21, 2020:_ Updated for WooCommerce Payments and added a new section: "Other Information and Resources."
-*   _December 31, 2019_: Updated for California Consumer Privacy Act and miscellaneous clarification throughout.
-*   _October 2, 2019:_ A few miscellaneous changes, such as new sections about translations of this Privacy Policy and how to opt out of our internal analytics program.
-*   _May 31, 2019:_ Included information for the Recurring Payments feature.
-*   _April 1, 2019:_ Included information for Happy Tools.
-*   _March 13, 2019:_ Added clarifications and additional details to existing sections, for example about ICANN policies and what we may store when you communicate with us.
-*   _February 1, 2019:_ Included information for Longreads and additional information regarding Longreads accounts.
-*   _November 6, 2018:_ Removed references to Polldaddy, which has been rebranded as Crowdsignal.
-*   _September 24, 2018:_ Included information for Simplenote, Simperium, Cloudup, and Lean Domain Search.
-*   _May 25, 2018:_ Added more specific information to help clarify our practices, included information for Crowdsignal and Woocommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation.
-*   _January 3, 2018:_ Revised and reorganized language throughout to help simplify the policy and clarify our practices.
-*   _August 22, 2017:_ Added “Information We Collect from Other Sources” section.
-*   _November 2, 2016_: Added that comments submitted as missed spam are retained by Akismet to improve future performance.
-*   _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0.
-*   _September 18, 2013:_ Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
-*   _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph.
-*   _January 3, 2011:_ Added court order and subpoena clarification.
-*   _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators.
-*   _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy.
-*   _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies.
+- If you are a Vendor or Host we will collect additional Personal Data from you. Information you provide to us: In some cases, we may collect your credit card information (e.g., your credit card number and expiration date, billing address, etc.), some of which may constitute Personal Data, to secure certain payments. In addition, if you use our payment processing services, we will collect financial information from you (e.g., your bank account information) as necessary to facilitate payments and information required for ID verification and/or tax purposes (e.g., your taxpayer identification number). Information we obtain from other sources: We may also collect or receive Personal Data including your name, email address and other contact information from third party sources, such as third party websites and marketing partners, your bank, our payment processing partners and credit reporting agencies.  
+  
+Information Collected From users
+
+- If you are a user we will collect additional Personal Data from you, sometimes for our own purposes and other times on behalf of a Host  
+  
+Information you provide via Findfun Properties or Applications
+
+- If you register for a paid event, you will provide financial information (e.g., your credit card number and expiration date, billing address, etc.) some of which may constitute Personal Data. When you register for, or otherwise provide information to Findfun in conjunction with a Host event or activity, whether that information is yours or a third party’s, in connection with a purchase, registration, or transfer, that Host will receive certain information you provide if you allow it. Financial information and certain elements of PII provided are never shared with a Host.  
+  
+Information we obtain from other sources
+- We may also collect or receive Personal Data from third party sources, such as social media or other third party integrations, your credit card issuing bank, our payment processing partners or other third parties.  
+  
+Information Collected from Sales Clients and Leads  
+- If you engage with the Findfun sales team we may collect the following: your name, email, address, phone number, and other professional contact information. If you engage with the sales team and consent to recordings, the sales team may collect audio and/or video recordings of you.  
+  
+
+ **3. How We Use Your Personal Data.**
+
+We collect and use the Personal Data we collect in a manner that is consistent with this Privacy Policy, and applicable privacy laws. We may use the Personal Data as follows:  
+‍  
+Specific Reason
+
+- If you provide Personal Data for a certain purpose, we may use the Personal Data in connection with the purpose for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem and will respond to the email address from which the contact came.  
+  
+Access and Use
+
+- If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Services or functionality and to analyze your use of such Services or functionality. For instance, if you supply Personal Data relating to your identity or qualifications to use certain portions of the Services, we will use that information to make a decision as to granting you access to use such Services and to assess your ongoing qualification to use such Services.  
+  
+Internal Business Purposes
+
+- We may use your Personal Data for internal business purposes, including without limitation, to help us improve the content and functionality of the Services, to better understand our Users, to improve the Services, to protect against, identify or address wrongdoing, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Services and our business.  
+  
+Findfun Marketing
+
+- We may use your Personal Data for our marketing and advertising purposes, including (without limitation) by email, SMS marketing, and display media. We do this in order to inform you about services or events we believe might be of interest to you, develop promotional or marketing materials and display Findfun or event-related content and advertising on or off the Services that we believe might be of interest to you. If you no longer want your Personal Data to be used for these purposes please contact us at privacy@findfun.com.  
+  
+Host Communication.  
+
+- We allow Hosts to use our tool to contact users for their current and past events, so you may receive messages from our system that originate with such Hosts.  
+  
+Use of Interest-Based Data  
+
+- We sometimes make inferences about the type of events or activities you may be interested in. We may use these inferences to help target advertising or customize recommendations to you, including on behalf of Hosts.  
+  
+Activity Related Data  
+
+- Findfun uses Host, users, and other activity related data to power a proprietary algorithm it uses to rank its users.  
+  
+Payment Related Data  
+
+- Be advised that if we collect payment from you of any kind that we will utilize the services of a third party payment processor to facilitate your payment by credit card. We do not store any credit card and/or financial information on our servers. Your financial information will be stored on the servers of Stripe. See Stripe’s Privacy Policy. https://striple.com/privacy. We will only use your credit card and/or financial information for all secure payment transaction processing. We do store a record of the payment transaction, including the last 4 digits of the credit card number, for account history, invoicing, and billing support. We also store your billing address to calculate any sales tax due in the United States, to maintain records that may be used for investigations of potentially fraudulent credit card transactions, and to print on your invoices. We may collect commercial information such as your purchase history, including records of products or services you have purchased, provided, returned, or are considering purchasing from us.  
+  
+Other Purposes
+
+- If we intend to use any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time the Personal Data is collected or we will obtain your consent subsequent to such collection but prior to such use.  
+  
+Aggregated Personal Data 
+
+- In an ongoing effort to understand and serve our Users better, we often conduct research on our customer demographics, interests and behavior based on Personal Data and other information that we have collected. This research is typically conducted on an aggregate basis only that does not identify you. Once Personal Data is in an aggregated form, for purposes of this Privacy Policy, it becomes Non-Personal Data.  
+  
+How We Disclose And Transfer Your Personal Data
+  
+Business Transfers
+
+- As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. We may also disclose your Personal Data in the course of due diligence for such an event. You acknowledge and agree that any successor to or acquirer of Findfun (or its assets) will continue to have the right to use your Personal Data and other information in accordance with the terms of this Privacy Policy.  
+‍  
+Parent Companies, Subsidiaries and Affiliates
+
+- We may also share your Personal Data with our parent companies, subsidiaries and/or affiliates for purposes consistent with this Privacy Policy. Our parent companies, subsidiaries and affiliates will be bound to maintain that Personal Data in accordance with this Privacy Policy.  
+  
+Agents, Consultants and Service Providers
+
+- We may share your Personal Data with our contractors and service providers who process Personal Data on behalf of Findfun to perform certain business-related functions. These companies include our marketing agencies, online advertising providers, data enhancement and data services providers, database service providers, backup and disaster recovery service providers, email service providers, payment processing partners, customer support, tech support, hosting companies and others. When we engage another company to perform such functions, we may provide them with information, including Personal Data, only as needed and in connection with their performance of such functions.  
+  
+Hosts
+- Only limited users information is shared with the host of events you attend. No payment information is ever shared. In the event that you share information directly via chat or outside of the app and/or services provided, you are responsible for that.
+
+Interpretation and Definitions
+
+Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions.The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
+Definitions
+
+For the purposes of this Privacy Policy:
+
+-   You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.  
+    Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
+    
+-   Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to findfun.  
+    For the purpose of the GDPR, the Company is the Data Controller.
+    
+-   Application means the software program provided by the Company downloaded by You on any electronic device, named findfun
+    
+-   Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+    
+-   Account means a unique account created for You to access our Service or parts of our Service.
+    
+-   Website refers to findfun, accessible from findfun.com
+    
+-   Service refers to the Application or the Website or both.
+    
+-   Country refers to: California, United States
+    
+-   Service Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.  
+    For the purpose of the GDPR, Service Providers are considered Data Processors.
+    
+-   Third-party Social Media Service refers to any website or any social network website through which a User can log in or create an account to use the Service.
+    
+-   Facebook Fan Page is a public profile named Findfun specifically created by the Company on the Facebook social network, accessible from https://www.facebook.com/Findfunofficial/?modal=admin_todo_tour
+    
+-   Personal Data is any information that relates to an identified or identifiable individual.  
+    For the purposes for GDPR, Personal Data means any information relating to You such as a name, an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity.  
+    For the purposes of the CCPA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.
+    
+-   Cookies are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
+    
+-   Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+    
+-   Usage Data refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+    
+-   Data Controller, for the purposes of the GDPR (General Data Protection Regulation), refers to the Company as the legal person which alone or jointly with others determines the purposes and means of the processing of Personal Data.
+    
+-   Do Not Track (DNT) is a concept that has been promoted by US regulatory authorities, in particular the U.S. Federal Trade Commission (FTC), for the Internet industry to develop and implement a mechanism for allowing internet users to control the tracking of their online activities across websites.
+    
+-   Business, for the purpose of the CCPA (California Consumer Privacy Act), refers to the Company as the legal entity that collects Consumers' personal information and determines the purposes and means of the processing of Consumers' personal information, or on behalf of which such information is collected and that alone, or jointly with others, determines the purposes and means of the processing of consumers' personal information, that does business in the State of California.
+    
+-   Consumer, for the purpose of the CCPA (California Consumer Privacy Act), means a natural person who is a California resident. A resident, as defined in the law, includes (1) every individual who is in the USA for other than a temporary or transitory purpose, and (2) every individual who is domiciled in the USA who is outside the USA for a temporary or transitory purpose.
+    
+-   Sale, for the purpose of the CCPA (California Consumer Privacy Act), means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a Consumer's Personal information to another business or a third party for monetary or other valuable consideration.
+    
+
+Collecting and Using Your Personal Data
+
+Types of Data Collected
+
+Personal Data
+
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+
+-   Email address
+    
+-   First name and last name
+    
+-   Phone number
+    
+-   Address, State, Province, ZIP/Postal code, City
+    
+-   Bank account information in order to pay for products and/or services within the Service
+    
+-   Usage Data
+    
+
+When You pay for a product and/or a service via bank transfer, We may ask You to provide information to facilitate this transaction and to verify Your identity. Such information may include, without limitation:
+
+-   Date of birth
+    
+-   Passport or National ID card
+    
+-   Bank card statement
+    
+-   Other information linking You to an address
+    
+
+Usage Data
+
+Usage Data is collected automatically when using the Service.
+
+Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+
+We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+
+Information from Third-Party Social Media Services
+
+The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
+
+-   Google
+    
+-   Facebook
+    
+-   Twitter
+    
+
+If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
+
+You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
+
+Information Collected while Using the Application
+
+While using Our Application, in order to provide features of Our Application, We may collect, with your prior permission:
+
+-   Information regarding your location
+    
+-   Information from your Device's phone book (contacts list)
+    
+-   Pictures and other information from your Device's camera and photo library
+    
+
+We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it be simply stored on Your device.
+
+You can enable or disable access to this information at any time, through Your Device settings.
+
+Tracking Technologies and Cookies
+
+We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.
+
+You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.
+
+Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. Learn more about cookies in the ["What Are Cookies"](https://www.privacypolicies.com/blog/cookies/) article.
+
+We use both session and persistent Cookies for the purposes set out below:
+
+-   Necessary / Essential Cookies  
+    Type: Session Cookies  
+    Administered by: Us  
+    Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
+    
+-   Cookies Policy / Notice Acceptance Cookies  
+    Type: Persistent Cookies  
+    Administered by: Us  
+    Purpose: These Cookies identify if users have accepted the use of cookies on the Website.
+    
+-   Functionality Cookies  
+    Type: Persistent Cookies  
+    Administered by: Us  
+    Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
+    
+-   Tracking and Performance Cookies  
+    Type: Persistent Cookies  
+    Administered by: Third-Parties  
+    Purpose: These Cookies are used to track information about traffic to the Website and how users use the Website. The information gathered via these Cookies may directly or indirectly identify you as an individual visitor. This is because the information collected is typically linked to a pseudonymous identifier associated with the device you use to access the Website. We may also use these Cookies to test new advertisements, pages, features or new functionality of the Website to see how our users react to them.
+    
+-   Targeting and Advertising Cookies  
+    Type: Persistent Cookies  
+    Administered by: Third-Parties  
+    Purpose: These Cookies track your browsing habits to enable Us to show advertising which is more likely to be of interest to You. These Cookies use information about your browsing history to group You with other users who have similar interests. Based on that information, and with Our permission, third party advertisers can place Cookies to enable them to show adverts which We think will be relevant to your interests while You are on third party websites.
+    
+
+For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.
+
+Use of Your Personal Data
+
+The Company may use Personal Data for the following purposes:
+
+-   To provide and maintain our Service, including to monitor the usage of our Service.
+    
+-   To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+    
+-   For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+    
+-   To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+    
+-   To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+    
+-   To manage Your requests: To attend and manage Your requests to Us.
+    
+
+We may share your personal information in the following situations:
+
+-   With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to show advertisements to You to help support and maintain Our Service, to advertise on third party websites to You after You visited our Service, for payment processing, to contact You.
+    
+-   For Business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of our business to another company.
+    
+-   With Affiliates: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+    
+-   With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.
+    
+-   With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile.
+    
+
+Retention of Your Personal Data
+
+The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+
+Transfer of Your Personal Data
+
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to â€” and maintained on â€” computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+
+Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+
+Disclosure of Your Personal Data
+
+Business Transactions
+
+If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+Law enforcement
+
+Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+Other legal requirements
+
+The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
+
+-   Comply with a legal obligation
+    
+-   Protect and defend the rights or property of the Company
+    
+-   Prevent or investigate possible wrongdoing in connection with the Service
+    
+-   Protect the personal safety of Users of the Service or the public
+    
+-   Protect against legal liability
+    
+
+Security of Your Personal Data
+
+The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+
+Detailed Information on the Processing of Your Personal Data
+
+Service Providers have access to Your Personal Data only to perform their tasks on Our behalf and are obligated not to disclose or use it for any other purpose.
+
+Analytics
+
+We may use third-party Service providers to monitor and analyze the use of our Service.
+
+-   Google Analytics  
+    Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.  
+    For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+    
+-   Firebase  
+    Firebase is an analytics service provided by Google Inc.  
+    You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: [https://policies.google.com/privacy?hl=en  
+    ](https://policies.google.com/privacy?hl=en)We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).  
+    For more information on what type of information Firebase collects, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+    
+-   Matomo  
+    Matomo is a web analytics service. You can visit their Privacy Policy page here: [https://matomo.org/privacy-policy](https://matomo.org/privacy-policy)
+    
+
+Advertising
+
+We may use Service providers to show advertisements to You to help support and maintain Our Service.
+
+-   Google AdSense & DoubleClick Cookie  
+    Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.  
+    You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
+    
+-   AdMob by Google  
+    AdMob by Google is provided by Google Inc.  
+    You can opt-out from the AdMob by Google service by following the instructions described by Google: [https://support.google.com/ads/answer/2662922?hl=en  
+    ](https://support.google.com/ads/answer/2662922?hl=en)For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites) or visit the Privacy Policy of Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+    
+-   Bing Ads  
+    Bing Ads is an advertising service provided by Microsoft Inc.  
+    You can opt-out from Bing Ads by following the instructions on Bing Ads Opt-out page: [https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads  
+    ](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads)For more information about Bing Ads, please visit their Privacy Policy: [https://privacy.microsoft.com/en-us/PrivacyStatement](https://privacy.microsoft.com/en-us/PrivacyStatement)
+    
+-   Flurry  
+    Flurry is provided by Yahoo! Inc.  
+    You can opt-out of the Flurry service and prevent it from using and sharing your information by visiting the Flurry Opt-out page: [https://developer.yahoo.com/flurry/end-user-opt-out/  
+    ](https://developer.yahoo.com/flurry/end-user-opt-out/)For more information on the privacy practices policies of Yahoo!, please visit their Privacy Policy: [https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm)
+    
+-   InMobi  
+    InMobi is provided by InMobi Pte Ltd.  
+    You can opt-out from InMobi service by following the instructions as described on the InMobi Opt-out page: [http://www.inmobi.com/page/opt-out/  
+    ](http://www.inmobi.com/page/opt-out/)For more information on the privacy practices and policies of InMobi, please visit the InMobi Privacy Policy: [http://www.inmobi.com/privacy-policy/](http://www.inmobi.com/privacy-policy/)
+    
+-   MoPub  
+    MoPub is provided by MobPub Inc.  
+    You can opt-out from MobPub service by following the instructions on MoPub Opt-out page: [http://www.mopub.com/optout/  
+    ](http://www.mopub.com/optout/)For more information on what information MobPub collects and how it is used, please read MoPub Privacy Policy: [http://www.mopub.com/legal/privacy/](http://www.mopub.com/legal/privacy/)
+    
+-   StartApp  
+    StartApp is provided by StartApp Inc.  
+    You can opt-out from interest-based ads served by StartApp by following the instructions on their Privacy Policy, section "8. Your Choices and Controls": [https://www.startapp.com/policy/privacy-policy/  
+    ](https://www.startapp.com/policy/privacy-policy/)For more information on what information StartApp collects and how it is used, please read their Privacy Policy: [https://www.startapp.com/policy/privacy-policy/](https://www.startapp.com/policy/privacy-policy/)
+    
+-   AdColony  
+    AdColony is provided by Jirbo Inc.  
+    You can opt-out from AdColony service by visiting the AdColony Opt-out page: [https://www.adcolony.com/privacy-policy/  
+    ](https://www.adcolony.com/privacy-policy/)You can also opt-out from AdColony through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) or opt-out using your mobile device settings.  
+    For more information AdColony, please visit the Privacy Policy of AdColony: [http://www.adcolony.com/privacy-policy/](http://www.adcolony.com/privacy-policy/)
+    
+-   AppLovin  
+    AppLovin is provided by the AppLovin Corporation.  
+    If you'd like to opt-out from AppLovin service, please visit the AppLovin Opt-out page: [https://www.applovin.com/optout  
+    ](https://www.applovin.com/optout)If you'd like to learn more about AppLovin, please visit the Privacy Policy page of AppLovin: [https://www.applovin.com/privacy](https://www.applovin.com/privacy)
+    
+
+Email Marketing
+
+We may use Your Personal Data to contact You with newsletters, marketing or promotional materials and other information that may be of interest to You. You may opt-out of receiving any, or all, of these communications from Us by following the unsubscribe link or instructions provided in any email We send or by contacting Us.
+
+We may use Email Marketing Service Providers to manage and send emails to You.
+
+-   Mailchimp  
+    Mailchimp is an email marketing sending service provided by The Rocket Science Group LLC.  
+    For more information on the privacy practices of Mailchimp, please visit their Privacy policy: [https://mailchimp.com/legal/privacy/](https://mailchimp.com/legal/privacy/)
+    
+
+Behavioral Remarketing
+
+The Company uses remarketing services to advertise on third party websites to You after You visited our Service. We and Our third-party vendors use cookies to inform, optimize and serve ads based on Your past visits to our Service.
+
+-   Google Ads (AdWords)  
+    Google Ads (AdWords) remarketing service is provided by Google Inc.  
+    You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads  
+    ](http://www.google.com/settings/ads)Google also recommends installing the Google Analytics Opt-out Browser Add-on - [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.  
+    For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+    
+-   Bing Ads Remarketing  
+    Bing Ads remarketing service is provided by Microsoft Inc.  
+    You can opt-out of Bing Ads interest-based ads by following their instructions: [https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads  
+    ](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads)You can learn more about the privacy practices and policies of Microsoft by visiting their Privacy Policy page: [https://privacy.microsoft.com/en-us/PrivacyStatement](https://privacy.microsoft.com/en-us/PrivacyStatement)
+    
+-   Twitter  
+    Twitter remarketing service is provided by Twitter Inc.  
+    You can opt-out from Twitter's interest-based ads by following their instructions: [https://support.twitter.com/articles/20170405  
+    ](https://support.twitter.com/articles/20170405)You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: [https://twitter.com/privacy](https://twitter.com/privacy)
+    
+-   Facebook  
+    Facebook remarketing service is provided by Facebook Inc.  
+    You can learn more about interest-based advertising from Facebook by visiting this page: [https://www.facebook.com/help/164968693837950  
+    ](https://www.facebook.com/help/164968693837950)To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: [https://www.facebook.com/help/568137493302217  
+      
+    ](https://www.facebook.com/help/568137493302217)Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca/](http://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.  
+    For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
+    
+-   Pinterest  
+    Pinterest remarketing service is provided by Pinterest Inc.  
+    You can opt-out from Pinterest's interest-based ads by enabling the "Do Not Track" functionality of your web browser or by following Pinterest instructions: [http://help.pinterest.com/en/articles/personalization-and-data  
+    ](http://help.pinterest.com/en/articles/personalization-and-data)You can learn more about the privacy practices and policies of Pinterest by visiting their Privacy Policy page: [https://about.pinterest.com/en/privacy-policy](https://about.pinterest.com/en/privacy-policy)
+    
+-   AdRoll  
+    AdRoll remarketing service is provided by Semantic Sugar, Inc.  
+    You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false  
+    ](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: [http://www.adroll.com/about/privacy](http://www.adroll.com/about/privacy)
+    
+
+Payments
+
+We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+-   Apple Store In-App Payments  
+    Their Privacy Policy can be viewed at [https://www.apple.com/legal/privacy/en-ww/](https://www.apple.com/legal/privacy/en-ww/)
+    
+-   Google Play In-App Payments  
+    Their Privacy Policy can be viewed at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
+    
+-   Stripe  
+    Their Privacy Policy can be viewed at [https://stripe.com/us/privacy](https://stripe.com/us/privacy)
+    
+-   WePay  
+    Their Privacy Policy can be viewed at [https://go.wepay.com/privacy-policy](https://go.wepay.com/privacy-policy)
+    
+-   PayPal  
+    Their Privacy Policy can be viewed at [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://www.paypal.com/webapps/mpp/ua/privacy-full)
+    
+-   Square  
+    Their Privacy Policy can be viewed at [https://squareup.com/legal/privacy-no-account](https://squareup.com/legal/privacy-no-account)
+    
+
+When You use Our Service to pay a product and/or service via bank transfer, We may ask You to provide information to facilitate this transaction and to verify Your identity.
+
+Usage, Performance and Miscellaneous
+
+We may use third-party Service Providers to provide better improvement of our Service.
+
+-   Invisible reCAPTCHA  
+    We use an invisible captcha service named reCAPTCHA. reCAPTCHA is operated by Google.  
+    The reCAPTCHA service may collect information from You and from Your Device for security purposes.  
+    The information gathered by reCAPTCHA is held in accordance with the Privacy Policy of Google: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
+    
+-   Mouseflow  
+    Mouseflow is a session replay and heatmap tool that shows how visitors click, move, scroll, browse, and pay attention on websites. The service is operated by ApS.  
+    Mouseflow service may collect information from Your device.  
+    The information gathered by Mouseflow is held in accordance with its Privacy Policy: [https://mouseflow.com/privacy/](https://mouseflow.com/privacy/)
+    
+-   FreshDesk  
+    FreshDesk is a customer support software. The service is operated by Freshworks, Inc.  
+    FreshDesk service may collect information from Your Device.  
+    The information gathered by FreshDesk is held in accordance with its Privacy Policy: [https://www.freshworks.com/privacy/](https://www.freshworks.com/privacy/)
+    
+-   Google Places  
+    Google Places is a service that returns information about places using HTTP requests. It is operated by Google.  
+    Google Places service may collect information from You and from Your Device for security purposes.  
+    The information gathered by Google Places is held in accordance with the Privacy Policy of Google: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
+    
+
+GDPR Privacy
+
+Legal Basis for Processing Personal Data under GDPR
+
+We may process Personal Data under the following conditions:
+
+-   Consent: You have given Your consent for processing Personal Data for one or more specific purposes.
+    
+-   Performance of a contract: Provision of Personal Data is necessary for the performance of an agreement with You and/or for any pre-contractual obligations thereof.
+    
+-   Legal obligations: Processing Personal Data is necessary for compliance with a legal obligation to which the Company is subject.
+    
+-   Vital interests: Processing Personal Data is necessary in order to protect Your vital interests or of another natural person.
+    
+-   Public interests: Processing Personal Data is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Company.
+    
+-   Legitimate interests: Processing Personal Data is necessary for the purposes of the legitimate interests pursued by the Company.
+    
+
+In any case, the Company will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+
+Your Rights under the GDPR
+
+The Company undertakes to respect the confidentiality of Your Personal Data and to guarantee You can exercise Your rights.
+
+You have the right under this Privacy Policy, and by law if You are within the EU, to:
+
+-   Request access to Your Personal Data. The right to access, update or delete the information We have on You. Whenever made possible, you can access, update or request deletion of Your Personal Data directly within Your account settings section. If you are unable to perform these actions yourself, please contact Us to assist You. This also enables You to receive a copy of the Personal Data We hold about You.
+    
+-   Request correction of the Personal Data that We hold about You. You have the right to to have any incomplete or inaccurate information We hold about You corrected.
+    
+-   Object to processing of Your Personal Data. This right exists where We are relying on a legitimate interest as the legal basis for Our processing and there is something about Your particular situation, which makes You want to object to our processing of Your Personal Data on this ground. You also have the right to object where We are processing Your Personal Data for direct marketing purposes.
+    
+-   Request erasure of Your Personal Data. You have the right to ask Us to delete or remove Personal Data when there is no good reason for Us to continue processing it.
+    
+-   Request the transfer of Your Personal Data. We will provide to You, or to a third-party You have chosen, Your Personal Data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information which You initially provided consent for Us to use or where We used the information to perform a contract with You.
+    
+-   Withdraw Your consent. You have the right to withdraw Your consent on using your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service.
+    
+
+Exercising of Your GDPR Data Protection Rights
+
+You may exercise Your rights of access, rectification, cancellation and opposition by contacting Us. Please note that we may ask You to verify Your identity before responding to such requests. If You make a request, We will try our best to respond to You as soon as possible.
+
+You have the right to complain to a Data Protection Authority about Our collection and use of Your Personal Data. For more information, if You are in the European Economic Area (EEA), please contact Your local data protection authority in the EEA.
+
+Facebook Fan Page
+
+Data Controller for the Facebook Fan Page
+
+The Company is the Data Controller of Your Personal Data collected while using the Service. As operator of the Facebook Fan Page (https://www.facebook.com/Findfunofficial/?modal=admin_todo_tour), the Company and the operator of the social network Facebook are Joint Controllers.
+
+The Company has entered into agreements with Facebook that define the terms for use of the Facebook Fan Page, among other things. These terms are mostly based on the Facebook Terms of Service: [https://www.facebook.com/terms.php](https://www.facebook.com/terms.php)
+
+Visit the Facebook Privacy Policy [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php) for more information about how Facebook manages Personal data or contact Facebook online, or by mail: Facebook, Inc. ATTN, Privacy Operations, 1601 Willow Road, Menlo Park, CA 94025, United States.
+
+Facebook Insights
+
+We use the Facebook Insights function in connection with the operation of the Facebook Fan Page and on the basis of the GDPR, in order to obtain anonymized statistical data about Our users.
+
+For this purpose, Facebook places a Cookie on the device of the user visiting Our Facebook Fan Page. Each Cookie contains a unique identifier code and remains active for a period of two years, except when it is deleted before the end of this period.
+
+Facebook receives, records and processes the information stored in the Cookie, especially when the user visits the Facebook services, services that are provided by other members of the Facebook Fan Page and services by other companies that use Facebook services.
+
+For more information on the privacy practices of Facebook, please visit Facebook Privacy Policy here: [https://www.facebook.com/full_data_use_policy](https://www.facebook.com/full_data_use_policy)
+
+CCPA Privacy
+
+Your Rights under the CCPA
+
+Under this Privacy Policy, and by law if You are a resident of California, You have the following rights:
+
+-   The right to notice. You must be properly notified which categories of Personal Data are being collected and the purposes for which the Personal Data is being used.
+    
+-   The right to access / the right to request. The CCPA permits You to request and obtain from the Company information regarding the disclosure of Your Personal Data that has been collected in the past 12 months by the Company or its subsidiaries to a third-party for the third party's direct marketing purposes.
+    
+-   The right to say no to the sale of Personal Data. You also have the right to ask the Company not to sell Your Personal Data to third parties. You can submit such a request by visiting our "Do Not Sell My Personal Information" section or web page.
+    
+-   The right to know about Your Personal Data. You have the right to request and obtain from the Company information regarding the disclosure of the following:
+    
+
+-   The categories of Personal Data collected
+    
+-   The sources from which the Personal Data was collected
+    
+-   The business or commercial purpose for collecting or selling the Personal Data
+    
+-   Categories of third parties with whom We share Personal Data
+    
+-   The specific pieces of Personal Data we collected about You
+    
+
+-   The right to delete Personal Data. You also have the right to request the deletion of Your Personal Data that have been collected in the past 12 months.
+    
+-   The right not to be discriminated against. You have the right not to be discriminated against for exercising any of Your Consumer's rights, including by:
+    
+
+-   Denying goods or services to You
+    
+-   Charging different prices or rates for goods or services, including the use of discounts or other benefits or imposing penalties
+    
+-   Providing a different level or quality of goods or services to You
+    
+-   Suggesting that You will receive a different price or rate for goods or services or a different level or quality of goods or services.
+    
+
+Exercising Your CCPA Data Protection Rights
+
+In order to exercise any of Your rights under the CCPA, and if you are a California resident, You can email or call us or visit our "Do Not Sell My Personal Information" section or web page.
+
+The Company will disclose and deliver the required information free of charge within 45 days of receiving Your verifiable request. The time period to provide the required information may be extended once by an additional 45 days when reasonable necessary and with prior notice.
+
+Do Not Sell My Personal Information
+
+We do not sell personal information. However, the Service Providers we partner with (for example, our advertising partners) may use technology on the Service that "sells" personal information as defined by the CCPA law.
+
+If you wish to opt out of the use of your personal information for interest-based advertising purposes and these potential sales as defined under CCPA law, you may do so by following the instructions below.
+
+Please note that any opt out is specific to the browser You use. You may need to opt out on every browser that you use.
+
+Website
+
+You can opt out of receiving ads that are personalized as served by our Service Providers by following our instructions presented on the Service:
+
+-   From Our "Cookie Consent" notice banner
+    
+-   Or from Our "CCPA Opt-out" notice banner
+    
+-   Or from Our "Do Not Sell My Personal Information" notice banner
+    
+-   Or from Our "Do Not Sell My Personal Information" link
+    
+
+The opt out will place a cookie on Your computer that is unique to the browser You use to opt out. If you change browsers or delete the cookies saved by your browser, you will need to opt out again.
+
+Mobile Devices
+
+Your mobile device may give you the ability to opt out of the use of information about the apps you use in order to serve you ads that are targeted to your interests:
+
+-   "Opt out of Interest-Based Ads" or "Opt out of Ads Personalization" on Android devices
+    
+-   "Limit Ad Tracking" on iOS devices
+    
+
+You can also stop the collection of location information from Your mobile device by changing the preferences on your mobile device.
+
+"Do Not Track" Policy as Required by California Online Privacy Protection Act (CalOPPA)
+
+Our Service does not respond to Do Not Track signals.
+
+However, some third party websites do keep track of Your browsing activities. If You are visiting such websites, You can set Your preferences in Your web browser to inform websites that You do not want to be tracked. You can enable or disable DNT by visiting the preferences or settings page of Your web browser.
+
+  
+
+Your California Privacy Rights (California's Shine the Light law)
+
+Under California Civil Code Section 1798 (California's Shine the Light law), California residents with an established business relationship with us can request information once a year about sharing their Personal Data with third parties for the third parties' direct marketing purposes.
+
+If you'd like to request more information under the California Shine the Light law, You can contact Us using the contact information provided below.
+
+California Privacy Rights for Minor Users (California Business and Professions Code Section 22581)
+
+California Business and Professions Code section 22581 allow California residents under the age of 18 who are registered users of online sites, services or applications to request and obtain removal of content or information they have publicly posted.
+
+To request removal of such data, and if you are a California resident, You can contact Us using the contact information provided below, and include the email address associated with Your account.
+
+Be aware that Your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
+
+Links to Other Websites
+
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+  
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, You can contact us:
+
+-   By email: toca@findfun.com
+    
+-   By visiting this page on our website: [findfun.com](http://findfun.com)
